@@ -1,5 +1,5 @@
-# PHP Gitlab Issues Command Line Tool
-A small utility script I wrote that talks to the GitLab API and coverts to a csv file that I use in Excel.
+# PHP GitLab Issues Command Line Tool
+A small utility script I wrote that talks to the GitLab API and converts to a csv file that I use in Excel.
 
 example usage in terminal:
 > php gitlab_issues.php > issues.csv
